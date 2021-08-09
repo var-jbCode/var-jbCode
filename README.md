@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @var-jbCode
 - 👀 I’m interested in Development in general
-- 🌱 I’m currently learning Ruby on Rails
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Ruby on Rail
 
 <!---
 var-jbCode/var-jbCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
