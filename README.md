@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @var-jbCode a Master of Mathematics Gradute and Professional Web Developer.
-- 👀 I’m interested in Web Development, programming, algorithms and logic.
-- 🌱 I’m currently learning Vue.js
+- 👋 Hi, I’m @var-jbCode a Master of Mathematics Gradute and Professional Full Stack Developer.
+- 👀 I’m interested in Development, programming, algorithms and logic.
 
 <!---
 var-jbCode/var-jbCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
